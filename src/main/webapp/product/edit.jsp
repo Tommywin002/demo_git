@@ -16,6 +16,7 @@
     <input type="text" name="name" value="${fixProduct.name}">
     <input type="number" name="price" value="${fixProduct.price}">
     <button>Fix</button>
+    Thuong da viet cai nay
 </form>
 </body>
 </html>
